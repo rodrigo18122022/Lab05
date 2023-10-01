@@ -1,5 +1,5 @@
 import java.util.*;
-public class VideoJuego2 {
+public class VideoJuego2 {  // Version terminada
 	public static void main(String [] args){
 		Scanner sc = new Scanner(System.in);
 		int n = numeroSoldados();
